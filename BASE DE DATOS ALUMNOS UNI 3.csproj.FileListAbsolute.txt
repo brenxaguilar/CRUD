@@ -1,0 +1,10 @@
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\bin\Debug\BASE DE DATOS ALUMNOS UNI 3.exe.config
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\bin\Debug\BASE DE DATOS ALUMNOS UNI 3.exe
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\bin\Debug\BASE DE DATOS ALUMNOS UNI 3.pdb
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\obj\Debug\BASE DE DATOS ALUMNOS UNI 3.csproj.AssemblyReference.cache
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\obj\Debug\BASE_DE_DATOS_ALUMNOS_UNI_3.Form1.resources
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\obj\Debug\BASE_DE_DATOS_ALUMNOS_UNI_3.Properties.Resources.resources
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\obj\Debug\BASE DE DATOS ALUMNOS UNI 3.csproj.GenerateResource.cache
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\obj\Debug\BASE DE DATOS ALUMNOS UNI 3.csproj.CoreCompileInputs.cache
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\obj\Debug\BASE DE DATOS ALUMNOS UNI 3.exe
+C:\Users\castillo\source\repos\BASE DE DATOS ALUMNOS UNI 3\BASE DE DATOS ALUMNOS UNI 3\obj\Debug\BASE DE DATOS ALUMNOS UNI 3.pdb
